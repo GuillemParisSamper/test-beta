@@ -1,2 +1,2 @@
 # test-beta
-trial test
+trial test (beta)
